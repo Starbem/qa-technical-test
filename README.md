@@ -26,6 +26,6 @@ Crie um repositório no seu github chamado ``teste-qa-starbem`` onde você vai s
 
 ### - Regras
 
-- O teste deverá ser entregue em até 7 dias a partir da data de recebimento desse repositório.
+- O teste deverá ser entregue em até 1 semana a partir da data de recebimento desse repositório.
 
-- O teste deve ser enviado para o email: julio.sousa@starbem.app
+- O teste deve ser enviado para o email: julio.sousa@starbem.app como cópia para jessica.pastorello@starbem.app
